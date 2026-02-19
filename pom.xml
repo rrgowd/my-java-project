@@ -12,16 +12,9 @@
 
     <name>userapp</name>
 
-    <properties>
-<<<<<<< HEAD
-        <!-- <maven.compiler.source>21</maven.compiler.source>
-        <maven.compiler.target>21</maven.compiler.target> -->
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>        
-=======
+    <properties> 
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
->>>>>>> e52fe138ca28e4ef13de7490f677c1279bb37568
     </properties>
 
     <dependencies>
